@@ -23,44 +23,7 @@ Fifth-year Computer Science super senior at Oregon State University, specializin
 - Certifications: CompTIA A+ and Microsoft AZ-900
 - Working toward Cloud Security or Cloud Engineer roles, with a long-term goal of becoming a CISO
 
-## Projects
-
-### [AD Security Lab](https://github.com/ValdezGabe/AD-Security-Lab)
-Windows Server 2022 domain build, threat-model-driven Group Policy, Wazuh SIEM deployment, and full incident response on a real credential-theft attack chain mapped to MITRE ATT&CK.
-
-`PowerShell` `Active Directory` `Wazuh` `MITRE ATT&CK`
-
-### [AWS Security Lab](https://github.com/ValdezGabe/aws-security-lab)
-Break, detect, fix, and prevent common AWS misconfigurations, using IAM Access Analyzer, AWS Config, gitleaks, and Terraform.
-
-`AWS` `IAM` `Terraform` `gitleaks`
-
-### [ML-IDS](https://github.com/ValdezGabe/ML-IDS)
-Machine learning based network intrusion detection.
-
-`Python`
-
-### [Game Server Automation](https://github.com/ValdezGabe/Game-Server-Automation)
-Infrastructure as code for automated game server provisioning.
-
-`HCL` `Terraform`
-
-### [Computa](https://github.com/ValdezGabe/Computa)
-Built at BeaverHacks 2026.
-
-`Python`
-
-### [DubHacks 2025](https://github.com/ValdezGabe/DubHacks2025)
-Hackathon project from DubHacks 2025.
-
-`JavaScript`
 
 ## Background
 
-Experience across SOC operations, digital forensics, network security, and secure architecture design, including work with Zeek, Suricata, Kibana, Sentinel, Defender XDR, and Entra ID, as well as coursework projects in digital forensics, passive vulnerability scanning, and machine learning based network intrusion detection.
-
-## Contact
-
-Based in Corvallis, Oregon.
-
-[LinkedIn](https://www.linkedin.com/in/gabemvaldez) · [terminalcv.com](https://terminalcv.com)
+Originally from Maui, Hawaii, now based in Corvallis, Oregon. Experience across SOC operations, digital forensics, network security, and secure architecture design, including work with Zeek, Suricata, Kibana, Sentinel, Defender XDR, and Entra ID, as well as coursework projects in digital forensics, passive vulnerability scanning, and machine learning based network intrusion detection.
