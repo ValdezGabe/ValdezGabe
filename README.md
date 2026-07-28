@@ -19,7 +19,7 @@ Fifth-year Computer Science super senior at Oregon State University, specializin
 
 - InfoSec Intern at Concora Credit, building Joiner/Mover/Leaver automation with Microsoft Entra ID Lifecycle Workflows, Logic Apps, and Azure Automation runbooks in a hybrid Entra/on-prem AD environment
 - IT Technician at Oregon State University, managing 10,000+ Active Directory accounts
-- Volunteer Cybersecurity Student Analyst at ORTSOC, Oregon's cybersecurity teaching hospital providing managed SOC services
+- Cybersecurity Student Analyst at ORTSOC, Oregon's cybersecurity teaching hospital providing managed SOC services
 - Certifications: CompTIA A+ and Microsoft AZ-900
 - Working toward Cloud Security or Cloud Engineer roles, with a long-term goal of becoming a CISO
 
